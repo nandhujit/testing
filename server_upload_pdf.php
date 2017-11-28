@@ -38,8 +38,8 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
 
 function ServerConfig(){
  
-define('HostName','localhost');
-define('HostUser','id3586610_id3586610_root');
+define('HostName','	files.000webhost.com');
+define('HostUser','group5sep');
 define('HostPass','12345678');
 define('DatabaseName','id3586610_printbook');
  
